@@ -1,0 +1,19 @@
+════════════════════════════════════════════════════════
+        COMPROVANTE DE ENTREGA - IMPACTA
+════════════════════════════════════════════════════════
+
+  ID de Comprovação: 23dbd0a4-e28d-4057-800c-b592ead047f9
+  Data/Hora:         14/10/2026, 22:17:52
+  Aluno:             Thiago Alves Soares
+  RA:                2502664
+  Atividade:         AST11
+  Status:            No Prazo
+
+────────────────────────────────────────────────────────
+  Referência: https://github.com/thiagoasoares-byte/pytest-bdd
+────────────────────────────────────────────────────────
+
+  Este documento é a prova oficial de sua entrega eletrônica.
+  Autenticação: 23dbd0a4-e28d-4057-800c-b592ead047f9-2502664
+
+════════════════════════════════════════════════════════
